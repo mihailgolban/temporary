@@ -125,7 +125,7 @@ Exemplu de utilizare:
 ```sql
 SELECT CEL_MAI_PUTINE_RUDE();
 ```
-![Screen Shot 2020-04-18 at 11.25.49.png](https://photos.google.com/search/_tra_/photo/AF1QipPuLR-AJEA48rXEozQL0pzF4iEpIVRS7HFCcwLr)
+![Screen Shot 2020-04-18 at 11.25.49.png](https://lh3.googleusercontent.com/BoQxuEQJ-xXfe3i9E6vyjMbx0Tm_fBiMedIYBICuEMm70e2jKpY3uXkXTlKjDvcyjrMgO54SSoDA7DhCpfT3q7ZteZVUYwM2vm78TrI_5lZx4F47y61492in_rHVRSzG5AVL-jSwO7wPuwIqRfPt1k3ZsmlR_-xTmB56aBzvh5GYGjbJNawfAN_jDWnIikfsRt0rmWPZtcqAD7ZEU2-gZOt3sFe5TOfX9mzXyTkYWHcQlYOOyeIJePFvMxx9SOtDS9T0fWq97enOC45TFgisykxIBFyVtZFOYOkfabo7mkyDbVUfDR_29-mnlCYCHRopMkKpw8sz8L5cRuiEuXxl7T-rS6bzfxg1NSKP4w5Gnx0ohYtlRrmeKfudN1cRzP14N26gjuaR5j6_wpsEGBB6FSxuN3_neoxUmnzDZKIp8OAFjYKcJ76JJJFmfEwcDZRDK20Xx2D1lZzZ66XlHvNCg6P7vCmrFloGAZR4mNFWD1jU-HuaL4dCW4shhYsAeM5Us595XLRkcHPPH5E_GT6n8_5E9HH-u8nMJ7DnMaG62tG-JIzje-lJ0t7s-ocA35YP-dURF7Y1Fl3VMGYtJSpQ7IcD-CcK1_ljZdhSAuO7nUZIoaQ8L_hjGwGUJohHKP4azSJf-b6HQdjfs37RBCih3Niw78zNADRSI6Nx9SfY48MhB0ibbCs6IjIIPRUH=w1030-h122-no)
 
 Ex.3
 ```sql
@@ -149,4 +149,4 @@ Exemplu de utilizare:
 ```sql
 SELECT COMPARA_VIRSTA('Elvi', 'Sam');
 ```
-![Screen Shot 2020-04-18 at 11.21.06.png](https://photos.google.com/search/_tra_/photo/AF1QipMvea-bdpID1wcpi4EwyfRA-JxWO_Cpcc3gXAEE)
+![Screen Shot 2020-04-18 at 11.21.06.png](https://lh3.googleusercontent.com/HJ9mPkZBTaILeJYnVIroH7-gQmRQ87dQ1sZ-pSwG32ndGcYAGRajVCBFvESCGU1h6GcJE6_8ARWhRjAOahL4UoTOwbnIl_qqPm7klxBoPRTQR6xqA_uej1KsnLeASrVmH20tdk86Umlx5S75N82q_fW5xVG_UdgiTTfqTGppkEWrc-nPbDQcPD1f7pJCxg48b0Z4sOM-4ALBXQlPpSfT5X0_JQjof-S7fe_rd9b6EntPt7zfLky6bF9mPOzlKO2J3AkQeNRsVMS5eL0tdX1E51fR5zi4Io_DjEemFcwky-yuGRmS9waOUguHgM2UkBGXAL0W-E-gA4akKNBnj4kvYJimHu5JxwvYqdX8YJgfAeJ7JdO6Se046A7HaDSFeIg4kuhQWyURR8WbPj5bhC9RG9dnhREYydulcrLL1XxAjJ3m8n7N-bYgJzGHY_CDp7VQUKLUZ-iBvdW3Yafcgp4E1tZelfWjXSxFWs0iDvjjcWQb7sgdL975RJqUJ_royyxtmRtkqphlEkqyOkLVZU7RzjMkuL77ZvQFM5YPsT43n1JTO8mKoJDDkUwlxm0dDwyJeKxw1d2Vq2ZaTcJXdTvkn-f9uLILcWMfnOLw4Qnnan_W-AD62BQ8iR_Y6Qm9295WSihHo-OkHE8g06YI_glSkFGYXmRB_kyVzaMImJ3qdwH-9k9NuLOwDdfcNwe5=w596-h110-no)
